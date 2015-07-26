@@ -1,0 +1,57 @@
+[
+    {
+        "id": "general",
+        "code": "01",
+        "title": "General/trade",
+        "description": "For a non-specialist adult audience."
+    },
+    {
+        "id": "children",
+        "code": "02",
+        "title": "Children/juvenile",
+        "description": "For a juvenile audience, not specifically for any educational purpose."
+    },
+    {
+        "id": "teenager",
+        "code": "03",
+        "title": "Young adult",
+        "description": "For a teenage audience, not specifically for any educational purpose."
+    },
+    {
+        "id": "highschool",
+        "code": "04",
+        "title": "Primary and secondary/elementary and high school",
+        "description": "Kindergarten, pre-school, primary/elementary or secondary/high school education."
+    },
+    {
+        "id": "college",
+        "code": "05",
+        "title": "College/higher education",
+        "description": "For universities and colleges of further and higher education."
+    },
+    {
+        "id": "professional",
+        "code": "06",
+        "title": "Professional and scholarly",
+        "description": "For an expert adult audience, including academic research."
+    },
+    {
+        "id": "elt_esl",
+        "code": "07",
+        "title": "ELT/ESL",
+        "description": "Intended for use in teaching English as a second language."
+    },
+    {
+        "id": "adultedu",
+        "code": "08",
+        "title": "Adult education",
+        "description": "For centres providing academic, vocational or recreational courses for adults."
+    },
+    {
+        "id": "2ndlanguage",
+        "code": "09",
+        "title": "Second language teaching",
+        "description": "Intended for use in teaching second languages, for example teaching German to Spanish speakers. Prefer code 07 for products
+                    specific to teaching English."
+    }
+]

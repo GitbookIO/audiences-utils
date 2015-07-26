@@ -1,0 +1,19 @@
+{
+    "name": "audience-utils",
+    "version": "0.0.0",
+    "homepage": "https://github.com/GitbookIO/audience-utils",
+    "description": "Utilities to use audience codes (ONIX)",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GitbookIO/audiences-utils.git"
+    },
+    "keywords": [
+        "audience", "onix"
+    ],
+    "author": "Samy Pessé <samy@gitbook.com>",
+    "license": "Apache 2",
+    "bugs": {
+        "url": "https://github.com/GitbookIO/audiences-utils/issues"
+    }
+}
