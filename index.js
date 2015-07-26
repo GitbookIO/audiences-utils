@@ -24,7 +24,7 @@ var getByID = function(id) {
 
 module.exports = {
     byCode: getByCode,
-    byId: getByID
+    byId: getByID,
     all: {
         onix: ONIX
     }
